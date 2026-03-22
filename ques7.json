@@ -1,0 +1,8 @@
+{
+  "prompt": "A 17th-century scientific engraving illustrating gradient descent as a mountainous landscape. A small scholar figure descends step-by-step down a curved slope toward a marked minimum point in a valley. The terrain is represented as a smooth mathematical surface with contour lines. Include labeled annotations in Latin, arrows indicating direction of descent, and small diagrammatic inserts showing step iterations. Rendered in fine black ink linework with detailed cross-hatching, no modern elements, aged parchment background, highly detailed, authentic early scientific illustration style. Negative prompt: modern fonts, color gradients, digital rendering, photorealism",
+  "model": "DALL·E 3",
+  "concept": "Gradient Descent",
+  "tradition_name": "Scientific engraving",
+  "tradition_period": "17th–18th century",
+  "tradition_approach": "Fine line engraving, cross-hatching, labeled diagrams, monochrome ink, and parchment texture to mimic early scientific illustration and convey iterative optimization visually."
+}
