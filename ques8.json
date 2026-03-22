@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal impossible landscape where multiple small paths wind upward along hills, each path clearly ascending when viewed locally, with tiny human figures climbing upward. However, the entire landscape forms a larger hidden shape that slopes downward into a deep valley when viewed as a whole. The terrain subtly reveals that all local upward paths collectively lead downward globally. No text, no symbols. Soft lighting, dreamlike atmosphere, spatial contradiction, impossible geometry, inspired by M.C. Escher-like logic but naturalistic environment. Focus on perspective illusion and conflicting local vs global structure. Negative prompt: text, numbers, charts, diagrams, labels, symbols, mathematical notation",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Locally, all paths ascend, but globally the terrain descends, embodying conflicting trends at different aggregation levels."
+}
